@@ -1,0 +1,10 @@
+C:\Users\Callum\OneDrive\Vb\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe.config
+C:\Users\Callum\OneDrive\Vb\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe
+C:\Users\Callum\OneDrive\Vb\PayCalculator\PayCalculator\bin\Debug\PayCalculator.pdb
+C:\Users\Callum\OneDrive\Vb\PayCalculator\PayCalculator\bin\Debug\PayCalculator.xml
+C:\Users\Callum\OneDrive\Vb\PayCalculator\PayCalculator\obj\Debug\PayCalculator.Form1.resources
+C:\Users\Callum\OneDrive\Vb\PayCalculator\PayCalculator\obj\Debug\PayCalculator.Resources.resources
+C:\Users\Callum\OneDrive\Vb\PayCalculator\PayCalculator\obj\Debug\PayCalculator.vbproj.GenerateResource.Cache
+C:\Users\Callum\OneDrive\Vb\PayCalculator\PayCalculator\obj\Debug\PayCalculator.exe
+C:\Users\Callum\OneDrive\Vb\PayCalculator\PayCalculator\obj\Debug\PayCalculator.xml
+C:\Users\Callum\OneDrive\Vb\PayCalculator\PayCalculator\obj\Debug\PayCalculator.pdb

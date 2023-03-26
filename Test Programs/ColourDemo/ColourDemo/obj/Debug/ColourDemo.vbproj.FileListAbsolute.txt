@@ -1,0 +1,10 @@
+C:\Users\Callum\OneDrive\Vb\ColourDemo\ColourDemo\bin\Debug\ColourDemo.exe.config
+C:\Users\Callum\OneDrive\Vb\ColourDemo\ColourDemo\bin\Debug\ColourDemo.exe
+C:\Users\Callum\OneDrive\Vb\ColourDemo\ColourDemo\bin\Debug\ColourDemo.pdb
+C:\Users\Callum\OneDrive\Vb\ColourDemo\ColourDemo\bin\Debug\ColourDemo.xml
+C:\Users\Callum\OneDrive\Vb\ColourDemo\ColourDemo\obj\Debug\ColourDemo.Form1.resources
+C:\Users\Callum\OneDrive\Vb\ColourDemo\ColourDemo\obj\Debug\ColourDemo.Resources.resources
+C:\Users\Callum\OneDrive\Vb\ColourDemo\ColourDemo\obj\Debug\ColourDemo.vbproj.GenerateResource.Cache
+C:\Users\Callum\OneDrive\Vb\ColourDemo\ColourDemo\obj\Debug\ColourDemo.exe
+C:\Users\Callum\OneDrive\Vb\ColourDemo\ColourDemo\obj\Debug\ColourDemo.xml
+C:\Users\Callum\OneDrive\Vb\ColourDemo\ColourDemo\obj\Debug\ColourDemo.pdb

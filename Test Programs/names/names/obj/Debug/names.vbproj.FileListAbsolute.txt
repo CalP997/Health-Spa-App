@@ -1,0 +1,10 @@
+C:\Users\Callum\OneDrive\names\names\bin\Debug\names.exe.config
+C:\Users\Callum\OneDrive\names\names\bin\Debug\names.exe
+C:\Users\Callum\OneDrive\names\names\bin\Debug\names.pdb
+C:\Users\Callum\OneDrive\names\names\bin\Debug\names.xml
+C:\Users\Callum\OneDrive\names\names\obj\Debug\names.Form1.resources
+C:\Users\Callum\OneDrive\names\names\obj\Debug\names.Resources.resources
+C:\Users\Callum\OneDrive\names\names\obj\Debug\names.vbproj.GenerateResource.Cache
+C:\Users\Callum\OneDrive\names\names\obj\Debug\names.exe
+C:\Users\Callum\OneDrive\names\names\obj\Debug\names.xml
+C:\Users\Callum\OneDrive\names\names\obj\Debug\names.pdb
